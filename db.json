@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Vishal singh",
+      "age": 24,
+      "gender": "Male",
+      "department": "IT",
+      "salary": 25000
+    },
+    {
+      "id": 2,
+      "name": "Rahul singh",
+      "age": 24,
+      "gender": "Male",
+      "department": "Sales",
+      "salary": 25000
+    },
+    {
+      "id": 3,
+      "name": "Ajeet singh",
+      "age": 24,
+      "gender": "Male",
+      "department": "Marketting",
+      "salary": 25000
+    },
+    {
+      "id": 4,
+      "name": "Rakesh sharma",
+      "age": 24,
+      "gender": "Male",
+      "department": "IT",
+      "salary": 15000
+    },
+    {
+      "id": 5,
+      "name": "Santosh Tripathi",
+      "age": 24,
+      "gender": "Male",
+      "department": "IT",
+      "salary": 30000
+    }
+  ]
+}
